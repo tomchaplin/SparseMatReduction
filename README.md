@@ -32,6 +32,7 @@ Example inputs are provided in the ``inputs/`` folder.
 
 * Implement proper memory management.
 * Allow for column additions over an arbitrary module.
+* Compute p-th persistent Betti numbers
 * Command line options to specify desired output
 * Better CSV parsing (ignore white-space)
 
