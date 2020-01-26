@@ -28,5 +28,12 @@ Output can be saved by redirecting ``STDOUT``
 
 Example inputs are provided in the ``inputs/`` folder.
 
-# References
+## Next Steps
+
+* Implement proper memory management.
+* Allow for column additions over an arbitrary module.
+* Command line options to specify desired output
+* Better CSV parsing (ignore white-space)
+
+## References
 [1] Edelsbrunner, Herbert, and John Harer. Computational topology: an introduction. American Mathematical Soc., 2010.
