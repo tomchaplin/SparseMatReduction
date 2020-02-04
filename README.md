@@ -30,9 +30,15 @@ Example inputs are provided in the ``inputs/`` folder.
 
 ## Next Steps
 
-* Implement proper memory management.
+**Topology**
+
 * Allow for column additions over an arbitrary module.
 * Compute p-th persistent Betti numbers
+* Compute generating cycles for homology classes
+
+**Computer stuff**
+
+* Implement proper memory management.
 * Command line options to specify desired output
 * Better CSV parsing (ignore white-space)
 
