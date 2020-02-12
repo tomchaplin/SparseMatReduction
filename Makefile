@@ -14,11 +14,3 @@ main:	$(OBJ)
 main.o		: fileops.h sparse.h structs.h
 sparse.o	: sparse.h structs.h
 fileops.o	: fileops.h sparse.h structs.h
-
-# Tidying 
-clean:	tidy
-	rm -f main *.o *~
-	rm -f core *~ .*~ 	
-
-tidy:
-	rm -f channel *.o 
